@@ -1,0 +1,434 @@
+.q{
+	width: 150px;
+	height: 70px;
+	position: relative;
+	top: 10px;
+}
+.w{
+	width: 28px;
+	height: 20px;
+	position: relative;
+	top: 20px;
+	left: 30px;
+}
+.e{
+	display: flex; 
+	background-color: #282828;
+	width: 100%;
+	height: 120px;
+	padding-top: 15px;
+	border-bottom: 1px solid gray;
+	position: relative;
+	left: 8px;
+}
+.r{
+	position: relative;
+	top: 9px;
+	left: 14px;
+	width: 78px;
+	height: 45px;
+
+}
+.t{
+	position: relative;
+	top: 16px;
+	width: 30px;
+	height: 30px;
+	left: px;
+}
+.y{
+	position: relative;
+	top: 19px;
+	width: 25px;
+	height: 25px;
+	left: 14px;
+}
+.u{
+	position: relative;
+	top: 19px;
+	width: 28px;
+	height: 25px;
+	left: 30px;
+}
+.i{
+	display: flex;
+	text-decoration: none;
+	color: #0B97B5;
+	position: relative;
+	top: 19px;
+	left: 500px;
+}
+.i:hover{
+	color: red;
+}
+.o{
+	height: 40px;
+	width: 50px;
+	position: relative;
+	bottom: 12px;
+	left: 11px;
+}
+.p{
+	display: flex;
+	text-decoration: none;
+	color: #0B97B5;
+	position: relative;
+	top: 19px;
+	left: 520px;
+}
+.p:hover{
+	color: red;
+}
+.a{
+	height: 25px;
+	width: 25px;
+	position: relative;
+	bottom: 3px;
+}
+.s{
+	display: flex;
+	text-decoration: none;
+	color: #0B97B5;
+	position: relative;
+	top: 19px;
+	left: 540px;
+}
+.s:hover{
+	color: red;
+}
+.d{
+	height: 17px;
+	width: 17px;
+	position: relative;
+	right: 3px;
+}
+.f{
+	list-style-type: none;
+	color: white;
+}
+.g{
+	color: red;
+	border-block: thin solid red;
+	border-left: thin solid red;
+	border-right: thin solid red;
+	max-width: 180px;
+	margin-top: 8px;
+
+}
+.h{
+	height: 10px;
+	width: 12px;
+	position: relative;
+	top: 4px;
+	left: 5px;
+}
+.j{
+	display: flex;
+	background-color: #2f2f2f;
+	height: 40px;
+	padding-top: 20px;
+	padding-left: 20px;
+	border-bottom: 3px solid black;
+	width: 1412px;
+}
+.c{
+	display: flex;
+}
+.z{
+	list-style-type: none;
+	position: relative;
+	left: 15px;
+	color: white;
+}
+.as{
+	height: 10px;
+	width: 12px;
+	position: relative;
+	top: 4px;
+	left: 18px;
+}
+.xz{
+	list-style-type: none;
+	position: relative;
+	left: 30px;
+	color: white;
+}
+.az{
+	height: 10px;
+	width: 12px;
+	position: relative;
+	top: 4px;
+	left: 31px;
+}
+.asdf{
+	text-decoration: none;
+	color: white;
+	position: relative;
+	left: 45px;
+}
+.asdf:hover{
+	background-color: lightblue;
+
+}
+.hy{
+	border-left: 5px solid transparent;
+	border-right: 5px solid transparent;
+	border-top: 5px solid white;
+	position: relative;
+	top: 7px;
+	left: 35px;
+}
+.ol{
+	border-left: 5px solid transparent;
+	border-right: 5px solid transparent;
+	border-top: 5px solid white;
+	position: relative;
+	top: 7px;
+	left: 19px;
+}
+.ty{
+	border-left: 5px solid transparent;
+	border-right: 5px solid transparent;
+	border-top: 5px solid white;
+	position: relative;
+	top: 7px;
+	left: 5px;
+}
+.frat{
+	text-decoration: none;
+	color: white;
+	position: relative;
+	left: 60px;
+}
+.frat:hover{
+	background-color: lightblue;
+}
+.bez{
+	text-decoration: none;
+	color: white;
+	position: relative;
+	left: 75px;
+}
+.bez:hover{
+	background-color: lightblue;
+}
+.alor{
+	height: 30px;
+	width: 45px;
+	position: relative;
+	left: 90px;
+	bottom: 10px;
+}
+.kak{
+	height: 30px;
+	width: 45px;
+	position: relative;
+	left: 95px;
+	bottom: 10px;
+}
+.gd{
+	height: 30px;
+	width: 45px;
+	position: relative;
+	left: 100px;
+	bottom: 10px;
+}
+.fy{
+	height: 30px;
+	width: 30px;
+	position: relative;
+	bottom: 45px;
+	left: 280px;
+}
+.mom{
+	list-style-type: none;
+
+}
+.not{
+	width: 1424px;
+	position: relative;
+	right:  980px;
+	height: 50px;
+	bottom: 28px;
+	background-color: black;
+	border-top: 2px solid black;
+}
+.him{
+	position: relative;
+	left: 980px;
+	bottom: 8px;
+
+}
+.pap{
+	height: 225px;
+	width: 150px;
+	border-top: 5px solid gray;
+	border-bottom: 5px solid gray;
+	border-left: 5px solid gray;
+	border-right: 5px solid gray;
+
+}
+.shu{
+	height: 78px;
+	width: 65px;
+	position: absolute;
+	margin-left: 45px;
+	margin-top: 76px;
+}
+.pr{
+	height: 78px;
+	width: 65px;
+	position: absolute;
+	margin-left: 45px;
+	margin-top: 76px;
+}
+.po{
+	height: 225px;
+	width: 150px;
+	border-top: 5px solid gray;
+	border-bottom: 5px solid gray;
+	border-left: 5px solid gray;
+	border-right: 5px solid gray;
+}
+.out{
+	display: flex;
+	background-color: #282828 ;
+	width: 1456px;
+	left: 10px;
+	padding-left: 45px;
+	height: 270px;
+	position: relative;
+	padding-top: 25px;
+	bottom: 35px;
+}
+.og{
+	margin-left: 25px;
+}
+.kor{
+	width: 30px;
+	height: 30px;
+	position: relative;
+	left: 25px;
+}
+.ash{
+	font-size: 23px;
+	position: relative;
+	left: 28px;
+	top: 17px;
+}
+.ku{
+	display: flex;
+}
+.pto{
+	width: 225px;
+	height: 130px;
+	border-top: 3px solid gray;
+	border-bottom: 3px solid gray;
+	border-left: 3px solid gray;
+	border-right: 3px solid gray;
+
+}
+.tan{
+	position: relative;
+	left: 28px;
+	text-decoration: none;
+	color: black;
+}
+.tan:hover{
+    color: red;
+}
+.ira{
+	max-width: 225px;
+	font-weight: bold;
+}
+.ger{
+	display: flex;
+}
+.mer{
+	position: relative;
+	left: 45px;
+	text-decoration: none;
+	color: black;
+}
+.mer:hover{
+	color: red;
+}
+.poy{
+	position: relative;
+	left: 62px;
+	text-decoration: none;
+	color: black;
+}
+.poy:hover{
+	color: red;
+}
+.vos{
+	position: relative;
+	left: 80px;
+	text-decoration: none;
+	color: black;
+}
+.vos:hover{
+    color: red;
+}
+.surc{
+	display: flex;
+}
+.asor{
+	font-size: 23px;
+	position: relative;
+	left: 59px;
+	bottom: 44px;
+}
+.eri{
+	max-width: 220px;
+}
+.hit{
+	display: flex;
+	position: relative;
+	bottom: 30px;
+}
+.sar{
+	width: 350px;
+	height: 558px;
+	background-color: lightgray;
+	position: relative;
+	left: 1030px;
+	bottom: 720px;
+    padding-top: 50px;
+	padding-left: 20px;
+	border-left: 1px solid lightgray;
+	padding-right: 20px;
+}
+.jax{
+	height: 20px;
+	width: 47px;
+}
+.nos{
+	display: flex;
+
+}
+.xax{
+	text-decoration: none;
+	color: black;
+}
+.xax:hover{
+	color: red;
+}
+.arme{
+	height: 400px;
+	width: 290;
+	position: relative;
+	left: 35px;
+	top: 15px;
+	border-block: 4px solid white;
+	border-left: 4px solid white;
+	border-right: 4px solid white;
+}
+.jayr{
+	font-size: 22px;
+	font-weight: bold;
+	position: relative;
+	left: 30px;
+	top: 20px;
+}
